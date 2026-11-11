@@ -1,0 +1,3 @@
+Q1: The file is permanently deleted because without a volume,the file has no where to be stored, it is only on the container so it would be deleted along with the container
+Q2: A web service have no published port because the port is isolated inside the container, external machines outside the container cannot reach the web service 
+Q3: An image is like a static, non-changing template while a container is the image but it is running and it can be changed 
